@@ -1,5 +1,5 @@
 ---
-title: Clojure by Example
+title: Clojure by Example（通过范例学Clojure）
 
 includes:
 
@@ -11,18 +11,24 @@ toc_footers:
  - Made by <a href='http://kimh.github.io/about/'>Hirokuni Kim</a>
 ---
 
-# About
+# 关于
 I don't like reading thick O'Reilly books when I start learning new programming languages. Rather, I like starting by writing small and dirty code. If you take this approach, having many simple code examples are extremely helpful because I can find answers to these questions very easily.
+当我开始学一门编程语言，我并不喜欢去读那厚厚的 O'Reilly 书。相反，我比较喜欢从随便写点糟糕的小代码来开始学习。如果你想用这个方法，那么一些简单的代码范例就会相当有帮助，因为这样很容易就能找到学习中遇到问题的答案（如下）。
 
 *How can I define a function?*
+*我怎么才能定义一个函数？*
 
 *What's the syntax for if and else?*
+*if和else的语法是怎么样？*
 
 *Does the language support string interpolation?*
+*这语言支持字符串插值吗？*
 
 *What scopes of variables are available?*
+*变量的作用域是怎么样？*
 
 These are very basic questions, but enough to start hacking with the new languages.
+这些是基本的问题，但已足够开始搞定一个语言。
 
 <br>
 
